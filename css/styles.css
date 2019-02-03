@@ -133,6 +133,12 @@ a:visited {
   height: 400px;
 }
 
+#steve-albonico-card{
+  background-image: url("https://imgur.com/gYtv9Fl")
+}
+
+
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
